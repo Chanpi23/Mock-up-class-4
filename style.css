@@ -1,0 +1,25 @@
+body{
+background-color: rgb(104, 187, 183);
+border:  rgb(63, 226, 63) solid 5px;
+color: white;
+padding: 0;
+}
+
+\---styling---\
+
+h2{
+color: white;
+text-align: center;
+margin: 5px ;
+padding: 5px;
+}
+p{
+text-align: justify;
+font-weight: 200;
+}
+img {
+display: flex;
+flex-direction: row;
+}
+
+
